@@ -17,6 +17,7 @@
 
 
 ## **Benefits:**
+
 1. Reduce customer loss: Identify and help customers at risk to keep them longer.
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
